@@ -5,7 +5,7 @@ A responsive Weather Dashboard built using HTML, CSS, and JavaScript that displa
 🌐 Live Demo
 
 Click here to view Weather Dashboard
-
+https://wahidshaikh0787-byte.github.io/Weather-Dashboard/)
 🚀 Features
 
 Search weather by city name
